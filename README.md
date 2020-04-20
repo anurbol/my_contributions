@@ -1,3 +1,4 @@
+PRs:
 https://github.com/swc-project/swc/pull/495  
 https://github.com/microsoft/vscode-go/pull/2660  
 https://github.com/microsoft/TypeScript/pull/26042 (related: https://github.com/microsoft/TypeScript/pull/26243#issue-206530063)  
@@ -16,7 +17,7 @@ https://github.com/swc-project/swc/pull/497
 https://github.com/jeanralphaviles/comment_parser/pull/18  
 https://github.com/mafintosh/turbo-json-parse/pull/29  
 
-Nice issues:
+Nice issues:  
 https://github.com/microsoft/TypeScript/issues/32690  
 https://github.com/microsoft/TypeScript/issues/32141  
 https://github.com/ChromeDevTools/devtools-protocol/issues/169  
