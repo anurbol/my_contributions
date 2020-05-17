@@ -23,6 +23,7 @@ https://github.com/microsoft/language-server-protocol/pull/798
 https://github.com/rust-lang/reference/pull/770  
 https://github.com/nodejs/node-addon-api/pull/527  
 https://github.com/swc-project/swc/pull/497  
+https://github.com/typegoose/typegoose/pull/271  
 https://github.com/jeanralphaviles/comment_parser/pull/18  
 https://github.com/mafintosh/turbo-json-parse/pull/29  
 
