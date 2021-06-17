@@ -4,7 +4,7 @@ https://github.com/microsoft/vscode-go/pull/2660
 https://github.com/microsoft/TypeScript/pull/26042 (related: https://github.com/microsoft/TypeScript/pull/26243#issue-206530063)  
 https://github.com/swc-project/node-swc/pull/15  
 https://github.com/swc-project/swc/pull/493  
-https://github.com/mikermcneil/parley/pull/8
+https://github.com/mikermcneil/parley/pull/8  
 https://github.com/neon-bindings/neon/pull/464  
 https://github.com/adonisjs/adonis-cli/pull/112  
 https://github.com/adonisjs/core/pull/885  
